@@ -12,3 +12,4 @@ def display_board(board)
  print "#{board [6]}  ", "|", " #{board [7]} ", "|", "  #{board [8]}"
  puts "\n"
 end 
+
